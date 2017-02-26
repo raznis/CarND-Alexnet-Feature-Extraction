@@ -1,3 +1,7 @@
+### run this using the following cmd line:
+### python cifar10_extraction.py --training_file vgg-100/vgg_cifar10_100_bottleneck_features_train.p --validation_file vgg-100/vgg_cifar10_bottleneck_features_validation.p
+
+
 import pickle
 import tensorflow as tf
 import numpy as np
